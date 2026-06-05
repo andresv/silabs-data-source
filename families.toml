@@ -17,3 +17,8 @@ url = "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlat
 name = "EFR32FG25"
 version = "2025.12.1"
 url = "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32FG25_DFP.2025.12.1.pack"
+
+[[family]]
+name = "EFR32MG22"
+version = "2025.12.1"
+url = "https://www.silabs.com/documents/public/cmsis-packs/SiliconLabs.GeckoPlatform_EFR32MG22_DFP.2025.12.1.pack"
